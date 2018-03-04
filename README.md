@@ -8,7 +8,10 @@ My first self-made Royer oscillator.
 ![Choke](images/drossel.jpg)
 
 # Transformer
+Primary winding:
 ![Primary winding](images/L_pri.jpg)
+
+Primary with secondary winding:
 ![Transformer with primary and secondary winding](images/trafo_ganz.jpg)
 
 # Top of the board
