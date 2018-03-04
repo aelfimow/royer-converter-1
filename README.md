@@ -2,7 +2,7 @@
 My first self-made Royer oscillator.
 
 # Schematics
-TODO
+![Schematics](images/schematics.jpg)
 
 # Choke
 ![Choke](images/drossel.jpg)
